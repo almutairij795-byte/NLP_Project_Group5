@@ -1,0 +1,4 @@
+Dataset,Negation-related reviews,Positive,Negative
+"Raw data (after loading, before duplicate removal)",407,86,321
+Cleaned data,404,86,318
+Removed by cleaning,3,0,3

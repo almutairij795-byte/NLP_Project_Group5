@@ -1,0 +1,208 @@
+model,source,negation,sentence,true_label,predicted_label,tags,wrong_in_n_models
+TF-IDF unigram + LR,amazon,False,"however, my girl was complain that some time the phone doesn't wake up like normal phone does.",Negative,Positive,contrast word,1
+TF-IDF unigram + LR,imdb,False,His losing his marbles so early in the proceedings is totally implausible and unconvincing.,Negative,Positive,-,2
+TF-IDF unigram + LR,imdb,False,"It's as continuously beautiful to look at as a Bertolucci, but the relationships here are more convincing and the narrative more engaging than some of that master's work.",Positive,Negative,contrast word,2
+TF-IDF unigram + LR,imdb,False,"In fact, this stinker smells like a direct-to-video release.",Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,"Light weight, I hardly notice it is there.",Positive,Negative,-,3
+TF-IDF unigram + LR,imdb,False,"Of course the footage from the 70s was grainy, but that only enhanced the film.",Positive,Negative,contrast word,2
+TF-IDF unigram + LR,imdb,False,"While you don't yet hear Mickey speak, there are tons of sound effects and music throughout the film--something we take for granted now but which was a huge crowd pleaser in 1928.",Positive,Negative,contrast word,2
+TF-IDF unigram + LR,yelp,True,"The Wife hated her meal (coconut shrimp), and our friends really did not enjoy their meals, either.",Negative,Positive,negation: not,1
+TF-IDF unigram + LR,imdb,False,This is probably one of the least effective and utterly unoriginal films I have ever seen in my entire life.,Negative,Positive,-,3
+TF-IDF unigram + LR,yelp,False,It really is impressive that the place hasn't closed down.,Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,False,Now this dish was quite flavourful.,Positive,Negative,-,2
+TF-IDF unigram + LR,imdb,True,I will never forget it now.,Positive,Negative,negation: never,2
+TF-IDF unigram + LR,amazon,False,I ended up sliding it on the edge of my pants or back pockets instead.,Positive,Negative,-,3
+TF-IDF unigram + LR,yelp,False,Def coming back to bowl next time,Positive,Negative,-,3
+TF-IDF unigram + LR,imdb,False,The stories were as unbelievable as the actors.,Negative,Positive,-,2
+TF-IDF unigram + LR,imdb,False,"The results, well, are a shame.",Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,i got this phone around the end of may and i'm completely unhappy with it.,Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,True,Makes it easier to keep up with my bluetooth when I'm not wearing it.,Negative,Positive,negation: not,2
+TF-IDF unigram + LR,amazon,False,"It's so stupid to have to keep buying new chargers, car chargers, cradles, headphones and car kits every time a new phone comes out.",Negative,Positive,-,2
+TF-IDF unigram + LR,imdb,False,The only place good for this film is in the garbage.,Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,False,First time going but I think I will quickly become a regular.,Positive,Negative,contrast word,2
+TF-IDF unigram + LR,imdb,False,but the movie makes a lot of serious mistakes.,Negative,Positive,contrast word,1
+TF-IDF unigram + LR,amazon,False,I even fully charged it before I went to bed and turned off blue tooth and wi-fi and noticed that it only had 20 % left in the morning.,Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,False,He came running after us when he realized my husband had left his sunglasses on the table.,Positive,Negative,-,2
+TF-IDF unigram + LR,yelp,False,The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.,Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,I'm very disappointed with my decision.,Negative,Positive,-,1
+TF-IDF unigram + LR,yelp,False,I think food should have flavor and texture and both were lacking.,Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,False,"What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us.",Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,You have to hold the phone at a particular angle for the other party to hear you clearly.,Negative,Positive,-,3
+TF-IDF unigram + LR,imdb,False,"Every element of this story was so over the top, excessively phony and contrived that it was painful to sit through.",Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,False,"The chicken dishes are OK, the beef is like shoe leather.",Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,False,And the red curry had so much bamboo shoots and wasn't very tasty to me.,Negative,Positive,-,3
+TF-IDF unigram + LR,imdb,False,"The new characters weren't all that memorable, and I found myself forgetting who was who.",Negative,Positive,-,2
+TF-IDF unigram + LR,imdb,False,":) Anyway, the plot flowed smoothly and the male-bonding scenes were a hoot.",Positive,Negative,-,2
+TF-IDF unigram + LR,imdb,False,"I know that Jim O'Connor was very energetic and that nobody could be as much as him, but George was well dull.",Negative,Positive,contrast word,2
+TF-IDF unigram + LR,amazon,False,"I have this phone and it is a thorn in my side, I really abhor it.",Negative,Positive,-,2
+TF-IDF unigram + LR,imdb,False,the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.,Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,True,"The wontons were thin, not thick and chewy, almost melt in your mouth.",Positive,Negative,negation: not,3
+TF-IDF unigram + LR,yelp,False,"This place is like Chipotle, but BETTER.",Positive,Negative,contrast word,2
+TF-IDF unigram + LR,imdb,False,Lame would be the best way to describe it.,Negative,Positive,-,2
+TF-IDF unigram + LR,imdb,False,This is probably the most irritating show I have ever seen in my entire life.,Negative,Positive,-,1
+TF-IDF unigram + LR,amazon,False,SWEETEST PHONE!!!,Positive,Negative,very short,1
+TF-IDF unigram + LR,imdb,False,I believe that Pitch Black was done well.,Positive,Negative,-,2
+TF-IDF unigram + LR,amazon,False,"At first I thought I was grtting a good deal at $7.44, until I plugged it into my phone (V3c Razr).",Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,False,"The whole experience was underwhelming, and I think we'll just go to Ninja Sushi next time.",Negative,Positive,-,1
+TF-IDF unigram + LR,yelp,False,Total brunch fail.,Negative,Positive,very short,2
+TF-IDF unigram + LR,imdb,False,"Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.",Positive,Negative,-,2
+TF-IDF unigram + LR,imdb,True,The movie is not completely perfect but 'Titta Di Girolamo' will stay with you for a long time after the vision of the movie.,Positive,Negative,negation: not; contrast word,2
+TF-IDF unigram + LR,amazon,True,"Bluetooth does not work, phone locks up, screens just flash up and now it just makes calls randomly while in my pocket locked.",Negative,Positive,negation: not,1
+TF-IDF unigram + LR,yelp,False,"To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",Positive,Negative,contrast word,2
+TF-IDF unigram + LR,amazon,False,Then I had to continue pairing it periodically since it somehow kept dropping.,Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,Cheap but hey it works.. Was pleasantly suprised given the low cost of this item.,Positive,Negative,contrast word,3
+TF-IDF unigram + LR,yelp,True,This place deserves no stars.,Negative,Positive,negation: no; very short,1
+TF-IDF unigram + LR,amazon,False,They keep getting better and better (this is my third one and I've had numerous Palms too).,Positive,Negative,-,1
+TF-IDF unigram + LR,yelp,False,I don't know what kind it is but they have the best iced tea.,Positive,Negative,contrast word,2
+TF-IDF unigram + LR,amazon,False,Can't upload ringtones from a third party.,Negative,Positive,-,1
+TF-IDF unigram + LR,imdb,False,"He can bore you to pieces, and kill the momentum of a movie, quicker than anyone else.",Negative,Positive,-,3
+TF-IDF unigram + LR,amazon,False,Very Displeased.,Negative,Positive,very short,2
+TF-IDF unigram + LR,yelp,False,Will be back again!,Positive,Negative,very short,1
+TF-IDF unigram + LR,yelp,True,The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.,Negative,Positive,negation: not,2
+TF-IDF unigram + LR,amazon,False,"Performed awful -- muffled, tinny incoming sound and severe echo for those on the other end of the call.",Negative,Positive,-,2
+TF-IDF unigram + LR,yelp,False,say bye bye to your tip lady!,Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,This is infuriating.,Negative,Positive,very short,2
+TF-IDF unigram + LR,imdb,False,Why was this film made?,Negative,Positive,very short,2
+TF-IDF unigram + LR,amazon,False,none of the new ones have ever quite worked properly.,Negative,Positive,-,1
+TF-IDF unigram + LR,imdb,False,I don't think you will be disappointed.,Positive,Negative,-,3
+TF-IDF unigram + LR,imdb,False,It's a shame to see good actors like Thomerson and James make a living in a mess like this.,Negative,Positive,-,2
+TF-IDF unigram + LR,imdb,False,I'm so sorry but I really can't recommend it to anyone.,Negative,Positive,contrast word,2
+TF-IDF unigram + LR,imdb,False,"If you do go see this movie, bring a pillow or a girlfriend/boyfriend to keep you occupied through out.",Negative,Positive,-,1
+TF-IDF unigram + LR,amazon,False,Much less than the jawbone I was going to replace it with.,Positive,Negative,-,3
+TF-IDF unigram + LR,yelp,False,The kids play area is NASTY!,Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,It makes very strange ticking noises before it ends the call.,Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,True,"No shifting, no bubbling, no peeling, not even a scratch, NOTHING!I couldn't be more happier with my new one for the Droid.",Positive,Negative,"negation: no, not",2
+TF-IDF unigram + LR,imdb,False,"As a courtroom drama, it's compelling, as an indictment on the American justice system, it's frightening.",Positive,Negative,-,2
+TF-IDF unigram + LR,amazon,False,Used and dirty.,Negative,Positive,very short,2
+TF-IDF unigram + LR,yelp,False,The chicken wings contained the driest chicken meat I have ever eaten.,Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,The delivery was on time.,Positive,Negative,very short,2
+TF-IDF unigram + LR,amazon,False,I have yet to run this new battery below two bars and that's three days without charging.,Positive,Negative,contrast word,3
+TF-IDF unigram + LR,imdb,False,"It is an hour and half waste of time, following a bunch of very pretty high schoolers whine and cry about life.",Negative,Positive,-,1
+TF-IDF unigram + LR,yelp,False,"Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",Negative,Positive,-,2
+TF-IDF unigram + LR,amazon,False,I was looking for this headset for a long time and now that I've got it I couldn't be happier.,Positive,Negative,-,2
+TF-IDF unigram + LR,imdb,True,Enough can not be said of the remarkable animation in this film.,Positive,Negative,negation: not,3
+TF-IDF uni+bigram + LR,yelp,False,I had the chicken Pho and it tasted very bland.,Negative,Positive,-,1
+TF-IDF uni+bigram + LR,imdb,False,His losing his marbles so early in the proceedings is totally implausible and unconvincing.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,imdb,False,"If you act in such a film, you should be glad that you're gonna drift away from earth as far as possible!",Negative,Positive,-,1
+TF-IDF uni+bigram + LR,imdb,False,"It's as continuously beautiful to look at as a Bertolucci, but the relationships here are more convincing and the narrative more engaging than some of that master's work.",Positive,Negative,contrast word,2
+TF-IDF uni+bigram + LR,imdb,False,"In fact, this stinker smells like a direct-to-video release.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,amazon,True,This is definitely a must have if your state does not allow cell phone usage while driving.,Positive,Negative,negation: not,2
+TF-IDF uni+bigram + LR,amazon,False,"Light weight, I hardly notice it is there.",Positive,Negative,-,3
+TF-IDF uni+bigram + LR,imdb,False,"Of course the footage from the 70s was grainy, but that only enhanced the film.",Positive,Negative,contrast word,2
+TF-IDF uni+bigram + LR,imdb,False,"While you don't yet hear Mickey speak, there are tons of sound effects and music throughout the film--something we take for granted now but which was a huge crowd pleaser in 1928.",Positive,Negative,contrast word,2
+TF-IDF uni+bigram + LR,yelp,False,Tonight I had the Elk Filet special...and it sucked.,Negative,Positive,-,1
+TF-IDF uni+bigram + LR,imdb,False,This is probably one of the least effective and utterly unoriginal films I have ever seen in my entire life.,Negative,Positive,-,3
+TF-IDF uni+bigram + LR,yelp,False,It really is impressive that the place hasn't closed down.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,Now this dish was quite flavourful.,Positive,Negative,-,2
+TF-IDF uni+bigram + LR,imdb,True,I will never forget it now.,Positive,Negative,negation: never,2
+TF-IDF uni+bigram + LR,amazon,False,I ended up sliding it on the edge of my pants or back pockets instead.,Positive,Negative,-,3
+TF-IDF uni+bigram + LR,yelp,False,Def coming back to bowl next time,Positive,Negative,-,3
+TF-IDF uni+bigram + LR,imdb,False,"The results, well, are a shame.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,amazon,False,i got this phone around the end of may and i'm completely unhappy with it.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,imdb,False,The kids are annoying.,Negative,Positive,very short,1
+TF-IDF uni+bigram + LR,amazon,True,Makes it easier to keep up with my bluetooth when I'm not wearing it.,Negative,Positive,negation: not,2
+TF-IDF uni+bigram + LR,imdb,False,I advise you to look out for it.,Positive,Negative,-,2
+TF-IDF uni+bigram + LR,amazon,False,"It's so stupid to have to keep buying new chargers, car chargers, cradles, headphones and car kits every time a new phone comes out.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,imdb,False,The only place good for this film is in the garbage.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,First time going but I think I will quickly become a regular.,Positive,Negative,contrast word,2
+TF-IDF uni+bigram + LR,amazon,False,I even fully charged it before I went to bed and turned off blue tooth and wi-fi and noticed that it only had 20 % left in the morning.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,He came running after us when he realized my husband had left his sunglasses on the table.,Positive,Negative,-,2
+TF-IDF uni+bigram + LR,yelp,False,The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,I think food should have flavor and texture and both were lacking.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,"What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,amazon,False,You have to hold the phone at a particular angle for the other party to hear you clearly.,Negative,Positive,-,3
+TF-IDF uni+bigram + LR,imdb,False,"Every element of this story was so over the top, excessively phony and contrived that it was painful to sit through.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,And the red curry had so much bamboo shoots and wasn't very tasty to me.,Negative,Positive,-,3
+TF-IDF uni+bigram + LR,imdb,False,"The new characters weren't all that memorable, and I found myself forgetting who was who.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,imdb,False,":) Anyway, the plot flowed smoothly and the male-bonding scenes were a hoot.",Positive,Negative,-,2
+TF-IDF uni+bigram + LR,yelp,False,"And the drinks are WEAK, people!",Negative,Positive,-,1
+TF-IDF uni+bigram + LR,yelp,False,Left very frustrated.,Negative,Positive,very short,1
+TF-IDF uni+bigram + LR,amazon,False,"I have this phone and it is a thorn in my side, I really abhor it.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,imdb,False,the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,True,"The wontons were thin, not thick and chewy, almost melt in your mouth.",Positive,Negative,negation: not,3
+TF-IDF uni+bigram + LR,yelp,False,"This place is like Chipotle, but BETTER.",Positive,Negative,contrast word,2
+TF-IDF uni+bigram + LR,imdb,False,Lame would be the best way to describe it.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,amazon,False,worthless product.,Negative,Positive,very short,1
+TF-IDF uni+bigram + LR,imdb,False,I believe that Pitch Black was done well.,Positive,Negative,-,2
+TF-IDF uni+bigram + LR,amazon,False,"At first I thought I was grtting a good deal at $7.44, until I plugged it into my phone (V3c Razr).",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,Total brunch fail.,Negative,Positive,very short,2
+TF-IDF uni+bigram + LR,amazon,False,And none of the tones is acceptable.,Negative,Positive,-,1
+TF-IDF uni+bigram + LR,imdb,False,"Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.",Positive,Negative,-,2
+TF-IDF uni+bigram + LR,imdb,True,The movie is not completely perfect but 'Titta Di Girolamo' will stay with you for a long time after the vision of the movie.,Positive,Negative,negation: not; contrast word,2
+TF-IDF uni+bigram + LR,yelp,False,"To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",Positive,Negative,contrast word,2
+TF-IDF uni+bigram + LR,amazon,False,Cheap but hey it works.. Was pleasantly suprised given the low cost of this item.,Positive,Negative,contrast word,3
+TF-IDF uni+bigram + LR,amazon,False,I ordered this product first and was unhappy with it immediately.,Negative,Positive,-,1
+TF-IDF uni+bigram + LR,yelp,False,Highly unprofessional and rude to a loyal patron!,Negative,Positive,-,1
+TF-IDF uni+bigram + LR,yelp,False,I don't know what kind it is but they have the best iced tea.,Positive,Negative,contrast word,2
+TF-IDF uni+bigram + LR,yelp,False,The turkey and roast beef were bland.,Negative,Positive,-,1
+TF-IDF uni+bigram + LR,imdb,False,"He can bore you to pieces, and kill the momentum of a movie, quicker than anyone else.",Negative,Positive,-,3
+TF-IDF uni+bigram + LR,amazon,False,Very Displeased.,Negative,Positive,very short,2
+TF-IDF uni+bigram + LR,yelp,True,The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.,Negative,Positive,negation: not,2
+TF-IDF uni+bigram + LR,amazon,False,"Performed awful -- muffled, tinny incoming sound and severe echo for those on the other end of the call.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,say bye bye to your tip lady!,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,yelp,False,Nicest Chinese restaurant I've been in a while.,Positive,Negative,-,1
+TF-IDF uni+bigram + LR,amazon,False,This is infuriating.,Negative,Positive,very short,2
+TF-IDF uni+bigram + LR,imdb,False,I don't think you will be disappointed.,Positive,Negative,-,3
+TF-IDF uni+bigram + LR,yelp,False,"I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",Negative,Positive,-,1
+TF-IDF uni+bigram + LR,imdb,False,It's a shame to see good actors like Thomerson and James make a living in a mess like this.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,imdb,False,I'm so sorry but I really can't recommend it to anyone.,Negative,Positive,contrast word,2
+TF-IDF uni+bigram + LR,amazon,False,Much less than the jawbone I was going to replace it with.,Positive,Negative,-,3
+TF-IDF uni+bigram + LR,yelp,False,The kids play area is NASTY!,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,amazon,False,"Clear Skype Calls, Long Battery Life, Long Range.",Positive,Negative,-,2
+TF-IDF uni+bigram + LR,amazon,False,It makes very strange ticking noises before it ends the call.,Negative,Positive,-,2
+TF-IDF uni+bigram + LR,amazon,True,"No shifting, no bubbling, no peeling, not even a scratch, NOTHING!I couldn't be more happier with my new one for the Droid.",Positive,Negative,"negation: no, not",2
+TF-IDF uni+bigram + LR,imdb,False,Everything is appalling.,Negative,Positive,very short,1
+TF-IDF uni+bigram + LR,yelp,False,I left with a stomach ache and felt sick the rest of the day.,Negative,Positive,-,1
+TF-IDF uni+bigram + LR,amazon,False,This product is very High quality Chinese CRAP!!!!!!,Negative,Positive,-,1
+TF-IDF uni+bigram + LR,amazon,False,"I like the fact that it rests lightly against your ear, rather than inside.",Positive,Negative,-,1
+TF-IDF uni+bigram + LR,imdb,False,"As a courtroom drama, it's compelling, as an indictment on the American justice system, it's frightening.",Positive,Negative,-,2
+TF-IDF uni+bigram + LR,amazon,False,Used and dirty.,Negative,Positive,very short,2
+TF-IDF uni+bigram + LR,amazon,False,The delivery was on time.,Positive,Negative,very short,2
+TF-IDF uni+bigram + LR,amazon,False,I have yet to run this new battery below two bars and that's three days without charging.,Positive,Negative,contrast word,3
+TF-IDF uni+bigram + LR,yelp,False,"Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",Negative,Positive,-,2
+TF-IDF uni+bigram + LR,amazon,False,I was looking for this headset for a long time and now that I've got it I couldn't be happier.,Positive,Negative,-,2
+TF-IDF uni+bigram + LR,imdb,True,Enough can not be said of the remarkable animation in this film.,Positive,Negative,negation: not,3
+TF-IDF uni+bigram + LR,amazon,False,"During several different 2 minute calls, I experienced 5 drops and it was in an area that had 5 bars.",Negative,Positive,-,1
+SBERT + LR,imdb,True,"This was reflected not only in the cast, but also in the below-par script, which borrowed much from the earlier classic.",Negative,Positive,negation: not; contrast word,1
+SBERT + LR,imdb,False,is pretty funny.,Positive,Negative,very short,1
+SBERT + LR,amazon,True,This is definitely a must have if your state does not allow cell phone usage while driving.,Positive,Negative,negation: not,2
+SBERT + LR,amazon,True,The case is a flimsy piece of plastic and has no front or side protection whatsoever.,Negative,Positive,negation: no,1
+SBERT + LR,amazon,False,"Light weight, I hardly notice it is there.",Positive,Negative,-,3
+SBERT + LR,imdb,False,This is probably one of the least effective and utterly unoriginal films I have ever seen in my entire life.,Negative,Positive,-,3
+SBERT + LR,imdb,False,But other than that the movie seemed to drag and the heroes didn't really work for their freedom.,Negative,Positive,contrast word,1
+SBERT + LR,amazon,False,I ended up sliding it on the edge of my pants or back pockets instead.,Positive,Negative,-,3
+SBERT + LR,yelp,False,Def coming back to bowl next time,Positive,Negative,-,3
+SBERT + LR,imdb,False,The stories were as unbelievable as the actors.,Negative,Positive,-,2
+SBERT + LR,imdb,False,I advise you to look out for it.,Positive,Negative,-,2
+SBERT + LR,imdb,False,You wont regret it!,Positive,Negative,very short,1
+SBERT + LR,amazon,False,1. long lasting battery (you don't have to recharge it as frequentyly as some of the flip phones)2.,Negative,Positive,-,1
+SBERT + LR,yelp,False,We waited an hour for what was a breakfast I could have done 100 times better at home.,Negative,Positive,-,1
+SBERT + LR,amazon,False,You have to hold the phone at a particular angle for the other party to hear you clearly.,Negative,Positive,-,3
+SBERT + LR,yelp,False,"The chicken dishes are OK, the beef is like shoe leather.",Negative,Positive,-,2
+SBERT + LR,yelp,False,And the red curry had so much bamboo shoots and wasn't very tasty to me.,Negative,Positive,-,3
+SBERT + LR,amazon,True,Also the area where my unit broke).- I'm not too fond of the magnetic strap.,Negative,Positive,negation: not,1
+SBERT + LR,imdb,False,"I know that Jim O'Connor was very energetic and that nobody could be as much as him, but George was well dull.",Negative,Positive,contrast word,2
+SBERT + LR,yelp,True,"The wontons were thin, not thick and chewy, almost melt in your mouth.",Positive,Negative,negation: not,3
+SBERT + LR,amazon,False,The battery runs down quickly.,Negative,Positive,very short,1
+SBERT + LR,amazon,False,I Was Hoping for More.,Negative,Positive,very short,1
+SBERT + LR,amazon,False,"But, in any case, the best part is, you can download these pictures to your laptop using IR, or even send pictures from your laptop to the phone.",Positive,Negative,contrast word,1
+SBERT + LR,amazon,False,Then I had to continue pairing it periodically since it somehow kept dropping.,Negative,Positive,-,2
+SBERT + LR,imdb,False,"I'm glad this pretentious piece of s*** didn't do as planned by the Dodge stratus Big Shots... It's gonna help movie makers who aren't in the very restrained ""movie business"" of Québec.",Negative,Positive,-,1
+SBERT + LR,amazon,False,Cheap but hey it works.. Was pleasantly suprised given the low cost of this item.,Positive,Negative,contrast word,3
+SBERT + LR,amazon,False,"Bought mainly for the charger, which broke soon after purchasing.",Negative,Positive,-,1
+SBERT + LR,imdb,False,"He can bore you to pieces, and kill the momentum of a movie, quicker than anyone else.",Negative,Positive,-,3
+SBERT + LR,imdb,False,Why was this film made?,Negative,Positive,very short,2
+SBERT + LR,imdb,False,I don't think you will be disappointed.,Positive,Negative,-,3
+SBERT + LR,yelp,False,I got home to see the driest damn wings ever!,Negative,Positive,-,1
+SBERT + LR,yelp,True,My drink was never empty and he made some really great menu suggestions.,Positive,Negative,negation: never,1
+SBERT + LR,amazon,False,Much less than the jawbone I was going to replace it with.,Positive,Negative,-,3
+SBERT + LR,yelp,False,I can assure you that you won't be disappointed.,Positive,Negative,-,1
+SBERT + LR,imdb,False,Everything Captain Howdy says is either laughable or just plain stupid.,Negative,Positive,-,1
+SBERT + LR,amazon,False,"Clear Skype Calls, Long Battery Life, Long Range.",Positive,Negative,-,2
+SBERT + LR,imdb,True,"Not only did it only confirm that the film would be unfunny and generic, but it also managed to give away the ENTIRE movie; and I'm not exaggerating - every moment, every plot point, every joke is told in the trailer.",Negative,Positive,negation: not; contrast word,1
+SBERT + LR,imdb,False,I gave it a 10,Positive,Negative,very short,1
+SBERT + LR,amazon,False,My headset works just peachy-keen.,Positive,Negative,very short,1
+SBERT + LR,yelp,False,The chicken wings contained the driest chicken meat I have ever eaten.,Negative,Positive,-,2
+SBERT + LR,amazon,False,I have yet to run this new battery below two bars and that's three days without charging.,Positive,Negative,contrast word,3
+SBERT + LR,imdb,False,"Long, whiny and pointless.",Negative,Positive,very short,1
+SBERT + LR,imdb,True,Enough can not be said of the remarkable animation in this film.,Positive,Negative,negation: not,3

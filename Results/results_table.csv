@@ -1,0 +1,4 @@
+Model,Full n,Full acc,Full macro F1,Negation n,Negation acc,Negation macro F1
+TF-IDF unigram + LR,447,0.817,0.816,51,0.804,0.663
+TF-IDF uni+bigram + LR,447,0.817,0.816,51,0.843,0.669
+SBERT + LR,447,0.904,0.904,51,0.843,0.73

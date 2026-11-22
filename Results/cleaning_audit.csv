@@ -1,0 +1,6 @@
+Step,Rows
+Original dataset (rows read from the three files),3000
+Rows dropped for missing text or label,0
+"Duplicate rows removed (extra copies, one copy kept)",21
+Rows removed because copies had conflicting labels,0
+Final cleaned dataset,2979
